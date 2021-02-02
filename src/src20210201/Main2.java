@@ -18,7 +18,6 @@ public class Main2 {
      */
     public static void main(String[] args) {
         Random r = new Random();
-        String letra = "";
         int array[][];
         array = new int[5][5];
         for (int i = 0; i < 5; i++) {
